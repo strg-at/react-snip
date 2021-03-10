@@ -14,16 +14,16 @@ React.js component that clamps the content of a text element if it exceeds the s
 
 ``` bash
 # install with npm
-npm install react-snip
+npm install @strg/react-snip
 
 # or with yarn
-yarn add react-snip
+yarn add @strg/react-snip
 ```
 
 ## Usage
 
 ``` js
-import { ReactSnip } from 'react-snip'
+import { ReactSnip } from '@strg/react-snip'
 ```
 
 The basic usage:
