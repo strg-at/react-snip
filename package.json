@@ -2,6 +2,7 @@
   "name": "@strg/react-snip",
   "version": "0.1.0",
   "author": "STRG.",
+  "description": "React component to clamp text to a specified number of lines.",
   "license": "MIT",
   "scripts": {
     "build": "rollup -c",
@@ -39,5 +40,33 @@
     "rollup-plugin-uglify": "^6.0.4",
     "typescript": "^4.1.5",
     "webpack": "^4.44.1"
-  }
+  },
+  "contributors": [
+    "Andrej Bilec <andrej.bilec@strg.at>",
+    "Ralf Traunsteiner <ralf.traunsteiner@strg.at>"
+  ],
+  "maintainers": [
+    "Andrej Bilec <andrej.bilec@strg.at>"
+  ],
+  "homepage": "https://github.com/strg-at/react-snip",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/strg-at/react-snip"
+  },
+  "bugs": {
+    "url": "https://github.com/strg-at/react-snip/issues"
+  },
+  "keywords": [
+    "clamp",
+    "ellipsis",
+    "snip",
+    "snip-text",
+    "cut-text",
+    "clamp-text",
+    "truncate-text",
+    "multiline-text",
+    "react",
+    "react-js",
+    "react-component"
+  ]
 }
