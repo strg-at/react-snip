@@ -1,0 +1,28 @@
+.demo {
+  max-width: 500px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.demo-card {
+  border: 1px solid #dadee4;
+  padding: 16px;
+  overflow: auto;
+  margin-top: 15px;
+}
+
+.demo-card-title {
+  padding-bottom: 15px;
+}
+
+.demo-card-pic {
+  float: right;
+  margin: 0 0 10px 10px;
+  background: #dadee4;
+  transform: scaleX(-1);
+}
+
+.demo-card-toast {
+  margin-top: 15px;
+}
