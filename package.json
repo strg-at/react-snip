@@ -34,7 +34,7 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "rollup": "^2.39.0",
+    "rollup": "^3.0.0",
     "rollup-plugin-dts": "^2.0.1",
     "rollup-plugin-typescript2": "^0.30.0",
     "rollup-plugin-uglify": "^6.0.4",
