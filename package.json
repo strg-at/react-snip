@@ -39,7 +39,7 @@
     "rollup-plugin-typescript2": "^0.30.0",
     "rollup-plugin-uglify": "^6.0.4",
     "typescript": "^4.1.5",
-    "webpack": "^4.44.1"
+    "webpack": "^5.0.0"
   },
   "contributors": [
     "Andrej Bilec <andrej.bilec@strg.at>",
